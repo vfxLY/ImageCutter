@@ -11,7 +11,11 @@
 
 ## 使用演示
 
-[观看或下载使用演示视频](docs/assets/usage-demo.mp4)
+<video controls width="640" src="docs/assets/usage-demo.mp4">
+  你的浏览器不支持视频播放；请[观看或下载使用演示视频](docs/assets/usage-demo.mp4)。
+</video>
+
+[单独打开或下载使用演示视频](docs/assets/usage-demo.mp4)
 
 ## 致谢
 
