@@ -9,6 +9,10 @@
 3. 将图片拖入图片列表，或选择输入目录与输出目录。
 4. 点击“开始自动裁切”，完成后可通过“裁切图片查看”预览结果。
 
+## 使用演示
+
+[观看或下载使用演示视频](docs/assets/usage-demo.mp4)
+
 ## 致谢
 
 本项目基于 [adenzu/Manga-Panel-Extractor](https://github.com/adenzu/Manga-Panel-Extractor) 进行二次开发。感谢原作者 **adenzu** 提供的漫画分镜提取项目、算法实现与开源基础。
